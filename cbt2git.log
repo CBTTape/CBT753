@@ -1,0 +1,10 @@
+2023-08-06 06:53:36.723896 - Initialized conversion of CBT753
+2023-08-06 06:53:36.758772 - Received CBT.V505.FILE753.PDS from FILE753.XMI 
+2023-08-06 06:53:36.761188 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE753.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:53:36.762221 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE753.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:53:36.763458 - Found @FILE753.txt (text/plain) in CBT.V505.FILE753.PDS, moved to PDS/@FILE753
+2023-08-06 06:53:36.901849 - Found HELP.xmi (application/xmit) in CBT.V505.FILE753.PDS
+2023-08-06 06:53:36.923287   - Received to CBT753/IRXFLOC.DOC
+2023-08-06 06:53:36.932978 - Found IRXFLOC.xmi (application/xmit) in CBT.V505.FILE753.PDS
+2023-08-06 06:53:36.940404   - Received RECFM=U data, stored XMIT file as CBT753/IRXFLOC.xmi
+2023-08-06 06:53:36.941390 - Found LKEDDATE.rexx (text/plain) in CBT.V505.FILE753.PDS, moved to PDS/LKEDDATE
